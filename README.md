@@ -1,5 +1,9 @@
 # CrossFlow Releases
 
-CrossFlow is developed by Nicolas Favre. It is an application and Premiere Pro Panel (extension), to transfer projects to/from DaVinci Resolve.
+"The most complete way to move your projectfrom Premiere Pro to DaVinci Resolve and back!"
 
-This repo will host all CrossFlow releases.
+CrossFlow is developed by Nablast. It is a desktop application to transfer projects between Premiere Pro and DaVinci Resolve.
+
+More info on [the official website](https://nablast.com).
+
+This repo host all CrossFlow releases.
