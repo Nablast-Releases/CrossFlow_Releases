@@ -1,6 +1,6 @@
 # CrossFlow
 
-## "The most complete way to move your projectfrom Premiere Pro to DaVinci Resolve and back!"
+## The most complete way to move your projectfrom Premiere Pro to DaVinci Resolve and back!
 
 CrossFlow is developed by Nablast. It is a desktop application to transfer projects between Premiere Pro and DaVinci Resolve.
 
